@@ -46,3 +46,11 @@ ___
   <!-- Windows-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="50" height="50"/>&nbsp;
 </div>
+
+        
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reensef&theme=dark&background=0d1117)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reensef&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
