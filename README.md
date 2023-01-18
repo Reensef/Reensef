@@ -53,4 +53,4 @@ ___
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reensef&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reensef&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Reensef&bg_color=0d1117&title_color=ffffff&hide_border=true&text_color=ffffff&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
