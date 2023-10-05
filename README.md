@@ -1,18 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WcYnTzdrjQphdu33xs/giphy.gif" width="200"/>
-</div>
+## Hey, I'm Kirill.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Reensef&style=flat-square&color=blue" width="120" alt=""/>
-</div>
+<a href="https://leetcode.com/Reensef/">
+    <img align="left" width="24px" src="https://github.com/Reensef/Reensef/assets/64550204/f0f4cef7-66b9-407b-a796-751133b81560"/>
+</a> &nbsp;&nbsp;
 
-</br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif" width="600"/>
-</div>
-
----
 
 ### :woman_technologist: About Me :
 
@@ -46,8 +37,10 @@ ___
   <!-- Windows-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="50" height="50"/>&nbsp;
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reensef&style=flat-square&color=blue" width="120" alt=""/>
+</div>
 
-        
 ---
 
 ### :fire: My Stats :
