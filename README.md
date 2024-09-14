@@ -8,7 +8,7 @@
 <img width="50%" align="right" alt="Github" src="https://github.com/Reensef/Reensef/assets/64550204/d4efccc0-dad3-416f-9468-d22ed42e95c8"/>
 
  - :ghost: I am a developer with a passion for designing and building software applications.<br><br>
- - :telescope: My main skills include C++, Qt Framework, QML, CMake, Git.<br><br>
+ - :telescope: My main skills include C++, Qt Framework, QML, CMake, Go.<br><br>
  - :seedling: I am familiar with Java, OpenGL, PostgreSQL, HTML, CSS.<br><br>
  - :octocat: I am constantly aiming for professional growth and relentlessly working towards the goals of the development team.<br><br>
 
